@@ -42,14 +42,20 @@ By connectiing the visuals to our cleaned data tables,the following exact metric
 
 # Master Business Baseline
 **Total Gross Revenue:** $1,201,681.49 ($1.20M)
+
 **Average Transaction Size:** $140.99
+
 **Total invetory Breadth:** 8,523 items
+
 **Network Customer Rating:** 3.97 out of 5.00
 
 # Channel Metrics ( Sales by Outlet Type)
 **Supermatket Type 1:** $787,549.89
+
 **Grocery Store:** $151,939.15
+
 **Supermarket Type 2:** $131,477.78
+
 **Supermarket Type3:** $130,714.67
 
 ## 5.Strategic Growth Recommendations for Blinkit Leadership
