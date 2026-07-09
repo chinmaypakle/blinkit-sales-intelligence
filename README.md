@@ -5,9 +5,14 @@ This repository contains an end-to-end data analytics project simulating a corpo
 
 ### Key Performance Indicators (KPIs) Met:-
 1.**Total Sales:** Tracks overall revenue  generated from all item sold across the network.
+
 2.**Average Sales:** Measure pricing efficiency and average revenue generated per transaction.
-3.**Number of Items:** Monitors total volume and variety of stock-keeping units(SKUs) moving through fulillment centers.
+
+3.**Number of Items:** Monitors total volume and variety of stock-keeping units(SKUs) moving 
+through fulillment centers.
+
 4.**Average Rating:** MEasures customer satisfaction and servicedelivery health.
+
 ---
 
 ## 2. Project Architecture
