@@ -39,6 +39,7 @@ Rather than executing manual edits in Excel,a scalable,fully automated ETL pipel
 
 ## 4.Real Metrics & Executive Insights
 By connectiing the visuals to our cleaned data tables,the following exact metrics and opperational trends were uncovered:
+![Blinkit Dashboard Preview](dashboards/dashboard_preview.png)
 
 # Master Business Baseline
 **Total Gross Revenue:** $1,201,681.49 ($1.20M)
